@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/commando/static/css/main.5f361e03.chunk.css",
-    "main.js": "/commando/static/js/main.6bb69e86.chunk.js",
-    "main.js.map": "/commando/static/js/main.6bb69e86.chunk.js.map",
-    "runtime-main.js": "/commando/static/js/runtime-main.e53e547c.js",
-    "runtime-main.js.map": "/commando/static/js/runtime-main.e53e547c.js.map",
-    "static/js/2.f76765ad.chunk.js": "/commando/static/js/2.f76765ad.chunk.js",
-    "static/js/2.f76765ad.chunk.js.map": "/commando/static/js/2.f76765ad.chunk.js.map",
-    "index.html": "/commando/index.html",
-    "precache-manifest.dec642788b7361559fb7042d87267408.js": "/commando/precache-manifest.dec642788b7361559fb7042d87267408.js",
-    "service-worker.js": "/commando/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/commando/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f76765ad.chunk.js.LICENSE.txt": "/commando/static/js/2.f76765ad.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/commando/static/media/logo.5d5d9eef.svg"
+    "main.css": "/commando.docs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/commando.docs/static/js/main.6c9faecd.chunk.js",
+    "main.js.map": "/commando.docs/static/js/main.6c9faecd.chunk.js.map",
+    "runtime-main.js": "/commando.docs/static/js/runtime-main.176b37df.js",
+    "runtime-main.js.map": "/commando.docs/static/js/runtime-main.176b37df.js.map",
+    "static/js/2.f76765ad.chunk.js": "/commando.docs/static/js/2.f76765ad.chunk.js",
+    "static/js/2.f76765ad.chunk.js.map": "/commando.docs/static/js/2.f76765ad.chunk.js.map",
+    "index.html": "/commando.docs/index.html",
+    "precache-manifest.5192b92e8cc61b0cdcc1c033b391d173.js": "/commando.docs/precache-manifest.5192b92e8cc61b0cdcc1c033b391d173.js",
+    "service-worker.js": "/commando.docs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/commando.docs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f76765ad.chunk.js.LICENSE.txt": "/commando.docs/static/js/2.f76765ad.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/commando.docs/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e53e547c.js",
+    "static/js/runtime-main.176b37df.js",
     "static/js/2.f76765ad.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6bb69e86.chunk.js"
+    "static/js/main.6c9faecd.chunk.js"
   ]
 }
